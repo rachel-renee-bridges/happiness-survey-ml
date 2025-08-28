@@ -1,0 +1,25 @@
+ACME Happiness Survey ML Project References
+
+1. Coursera. "Machine Learning Specialization." 
+   https://www.coursera.org/specializations/machine-learning-introduction
+
+2. Coursera. "Python Specialization." 
+   https://www.coursera.org/specializations/python
+
+3. Coursera. "NumPy, Matplotlib, and Pandas for Data Science Prerequisites (Packt)." 
+   https://www.coursera.org/learn/packt-numpy-matplotlib-pandas-data-science-prerequisites-emilz
+
+4. Coursera. "Data Science and scikit-learn in Python." 
+   https://www.coursera.org/learn/data-science-and-scikit-learn-in-python
+
+5. GeeksforGeeks. "How to do Train-Test Split using sklearn in Python." 
+   https://www.geeksforgeeks.org/machine-learning/how-to-do-train-test-split-using-sklearn-in-python/
+
+6. Google Drive Link. Shared resource: BpbhP7uSe7AtdvHUx 
+   https://share.google/BpbhP7uSe7AtdvHUx
+
+7. DrivenData. "Cookiecutter Data Science Directory Structure." 
+   https://cookiecutter-data-science.drivendata.org/#directory-structure
+
+8. Medium. Stan_DS. "Refactor Jupyter Notebook into Production Code." 
+   https://medium.com/@Stan_DS/refactor-jupyter-notebook-into-production-code-2df2cc2c9d32
