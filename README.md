@@ -14,9 +14,6 @@ There are two notebooks included:
 - 02_requirements.txt → list of Python libraries required
 - 03_data/: Dataset folders
     - 01_raw/: Original CSV files
-    - 02_interim/: Temporary files during processing (optional)
-    - 03_processed/: Cleaned datasets (optional)
-    - 04_external/: External datasets (optional)
 - 04_notebooks/: Jupyter notebooks
 - 05_src/: Reusable Python code
     - 01_happiness_survey_ml/data/: Load and clean datasets
