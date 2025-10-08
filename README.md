@@ -16,13 +16,13 @@ Decision Tree (DT)
 
 explore_all_features-DT.ipynb – Uses all features (X1–X6) to train a Decision Tree model.
 
-explore_selected_features-DT.ipynb – Uses selected features (X1, X2, X5) to train a Decision Tree model.
+explore_selected_features-DT.ipynb – Uses selected features (X3, X5, X6) to train a Decision Tree model.
 
 Random Forest (RF)
 
 explore_all_features-RF.ipynb – Uses all features (X1–X6) to train a Random Forest model.
 
-explore_selected_features-RF.ipynb – Uses selected features (X1, X2, X5) to train a Random Forest model.  
+explore_selected_features-RF.ipynb – Uses selected features (X2, X3, X5) to train a Random Forest model.  
 
 ## Project Structure
 
