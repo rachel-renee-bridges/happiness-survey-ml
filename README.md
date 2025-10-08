@@ -1,10 +1,10 @@
-ACME Happiness Survey ML Project
+## ACME Happiness Survey ML Project
 
-Project Overview
+## Project Overview
 This project trains and compares multiple machine learning models — Logistic Regression (LR), Decision Tree (DT), and Random Forest (RF) — on the ACME Happiness Survey 2020 dataset.
 The goal is to predict overall happiness (Y) based on survey features.
 
-Included Notebooks
+## Included Notebooks
 
 Logistic Regression (LR)
 
